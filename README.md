@@ -1,11 +1,11 @@
 # Piano-Score-to-Numbered-Score-Converter
-Takes in a photo of piano score, outputs a jpg file. A number accompany each note. 
+Takes in a photo of piano sheet musci, outputs a jpg file. The numbered notation will accompany each note. 
 
-Download the ScoreFINAL.py final, replace "test.jpeg" with the image path you want. For example, if the image is in the your desktop, you should replace something similar to "Desktop/imageName.imageExtension", if you placed the image in the same folder as ScoreFINAL.py, just replace "imageName.imageExtension".
+Download ScoreFINAL.py, replace "test.jpeg" with the path of your own piano sheet music image. If the image is not in the project directory, you should replace it with a full path, something like "Desktop/imageName.imageExtension". However, if you placed the image in the same folder as ScoreFINAL.py, just replace "test.jpeg" with "imageName.imageExtension".
 
 You will see an output jpg file in the same directory as the one you placed ScoreFINAL.py in. 
 
-For better results, play around the parameters in the ScoreFINAL.py file. 
+For better results, play around the parameters in ScoreFINAL.py. 
 
 For example, input image "test.jpeg"
 ![test](test.jpeg)
